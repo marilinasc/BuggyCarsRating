@@ -28,4 +28,4 @@ Selenium IDE:
 * <a href="https://github.com/marilinasc/BuggyCarsRating/blob/main/US003-Votar%20por%20autos.side"> US003-Votar por autos </a>
 
 ### 📊 Reporte: 
-<a href=""> Test Traceability Report </a>
+<a href="https://github.com/marilinasc/BuggyCarsRating/blob/main/AgileTest%20-%20Jira%20-%20BCR.pdf"> Test Traceability Report </a>
